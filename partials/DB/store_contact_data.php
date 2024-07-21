@@ -16,7 +16,7 @@
 
         if($result) {
             echo "<script>alert('Response Submitted Successfully');</script>";
-            echo "<script>window.location.href = '../../index.php';</script>";
+            echo "<script>window.location.href = '../../index.html';</script>";
             exit();
         }
         else{
