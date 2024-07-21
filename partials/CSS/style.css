@@ -102,6 +102,7 @@ button:hover {
     padding: 5vw 10vw;
     align-items: end;
     gap: 10px;
+    z-index: 3;
 }
 
 .show {
